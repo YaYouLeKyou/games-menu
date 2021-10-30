@@ -175,7 +175,7 @@ main {
 		font-size: 2rem;
 	}
 	.play2{
-		visibility: hidden;
+	
 		position: absolute;
 		bottom: 5%;
 		font-size: 2rem;
@@ -189,7 +189,7 @@ main {
 		font-size: 1rem;
 	}
 	.play2{
-		visibility: hidden;
+	
 		position: absolute;
 		bottom: 10%;
 		font-size: 1rem;
