@@ -169,11 +169,13 @@ main {
 }
 @media screen and (max-width:1100px) {
 	.play1{
+		
 		position: absolute;
 		bottom: 5%;
 		font-size: 2rem;
 	}
 	.play2{
+		visibility: hidden;
 		position: absolute;
 		bottom: 5%;
 		font-size: 2rem;
@@ -187,9 +189,13 @@ main {
 		font-size: 1rem;
 	}
 	.play2{
+		visibility: hidden;
 		position: absolute;
 		bottom: 10%;
 		font-size: 1rem;
+	}
+	.title{
+		font-size: 3rem;
 	}
 	
 	
