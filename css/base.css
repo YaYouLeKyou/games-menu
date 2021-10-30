@@ -183,13 +183,14 @@ main {
 @media screen and (max-width:600px) {
 	.play1{
 		position: absolute;
-		bottom: 5%;
+		bottom: 10%;
 		font-size: 1rem;
 	}
 	.play2{
 		position: absolute;
-		bottom: 5%;
+		bottom: 10%;
 		font-size: 1rem;
 	}
+	
 	
 }
